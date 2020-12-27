@@ -1,6 +1,6 @@
 # PROYECTO: "The Android App Market on Google Play"
 
-<img src="https://assets.datacamp.com/production/project_1197/img/google_play_store.png" alt="Google Play logo" width="400">
+<img src="https://raw.githubusercontent.com/MayumyCH/dc_project_analyzing_android_app_market_with_python/main/assets/google_play_store.png" alt="Google Play logo" width="400">
 
 _Gracias a los datos scrapeados de Google Play Store se busca obtener información sobre el mercado de aplicaciones de Android._
 
